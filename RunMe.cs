@@ -12,8 +12,8 @@ namespace LootLoaderDataLoaderFormBased
 {
     internal static class RunMe
     {
-        private static string API_KEY = "PKHNXT0M3ZBTEKBEH1LM";
-        private static string API_SECRET_KEY = "3EjNkXEQt7s4WceVGdmPslJ6oYo65uIzfHE09yPS";
+        private static string API_KEY = "";
+        private static string API_SECRET_KEY = "";
         private static string windowsUserName = System.Environment.UserName;//gives windows username
 
         private static TimeSpan start = new TimeSpan(8, 29, 55); //almost 8:30 military time
